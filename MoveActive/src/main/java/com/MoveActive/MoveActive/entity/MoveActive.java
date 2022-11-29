@@ -16,7 +16,7 @@ import java.time.LocalDate;
 @EqualsAndHashCode(of = {"identityContract"})
 @AllArgsConstructor
 @NoArgsConstructor
-@Document(value = "MoveActive")
+@Document(value = "moveActive")
 public class MoveActive {
 
     @Id
